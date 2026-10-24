@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://remixmeme.com/templates/party-viral-dance-ai-trend"><img src="https://img.shields.io/badge/Live-remixmeme.com-111111?style=for-the-badge" alt="Live" /></a>
   <a href="https://remixmeme.com/zh/templates/party-viral-dance-ai-trend"><img src="https://img.shields.io/badge/中文-remixmeme.com%2Fzh-2ea44f?style=for-the-badge" alt="ZH" /></a>
-  <a href="https://maynor996.github.io/rm-party-viral-dance-ai-trend/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
+  <a href="https://maynor996.github.io/party-viral-dance-ai-trend/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
 </p>
 
 **Party Viral Dance AI: Be the Smooth Dancer at the Viral Party** is one of the AI meme / viral templates on **[Remix Meme](https://remixmeme.com)** (Awesome Meme Video).
@@ -21,7 +21,7 @@ The party viral dance AI trend puts your face on the man who sways past a row of
 | **Template** | https://remixmeme.com/templates/party-viral-dance-ai-trend |
 | **中文** | https://remixmeme.com/zh/templates/party-viral-dance-ai-trend |
 | **Catalog home** | https://remixmeme.com |
-| **This landing** | https://maynor996.github.io/rm-party-viral-dance-ai-trend/ |
+| **This landing** | https://maynor996.github.io/party-viral-dance-ai-trend/ |
 
 ## How to use
 
